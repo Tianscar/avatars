@@ -1,4 +1,4 @@
-# avatars
+# Avatars
 Personal avatars, made with GIMP.
 
 ## License
