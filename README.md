@@ -2,4 +2,4 @@
 Personal avatars, made with GIMP.
 
 ## License
-[CC-BY](https://github.com/Tianscar/avatars/blob/main/LICENSE) © Tianscar
+[CC-BY-4.0](https://github.com/Tianscar/avatars/blob/main/LICENSE) © Tianscar
